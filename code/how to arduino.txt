@@ -1,0 +1,10 @@
+
+
+- instal arduino
+copy  listed folders to  [instal location]\Arduino\libraries :
+	- Adafruit_GFX
+	- RGBmatrixPanel
+	
+	connect arduino
+	
+	Run GameForHealth.ino in the \GameForHealth folder
